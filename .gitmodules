@@ -1,0 +1,3 @@
+[submodule "OpenCheetah"]
+	path = OpenCheetah
+	url = git@github.com:QiayuanLiao/OpenCheetah.git
