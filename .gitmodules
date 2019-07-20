@@ -1,3 +1,6 @@
-[submodule "OpenCheetah"]
-	path = OpenCheetah
-	url = git@github.com:QiayuanLiao/OpenCheetah.git
+[submodule "CheetahFirmware"]
+	path = CheetahFirmware
+	url = git@github.com:QiayuanLiao/CheetahFirmware.git
+[submodule "CheetahMPC"]
+	path = CheetahMPC
+	url = git@github.com:QiayuanLiao/CheetahMPC.git
