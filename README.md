@@ -1,4 +1,4 @@
 # The Open Cheetah Project
-##Overview
+## Overview
 Open Cheetah is a open source 12 DoF quadruped robot base on MIT Cheetah and Stanford Doggo.
-##Microcontroller Firmware
+## Microcontroller Firmware
